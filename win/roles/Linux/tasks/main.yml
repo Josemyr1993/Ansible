@@ -1,0 +1,54 @@
+---
+# Instalar Ferramentas e atualizar pacotes
+
+- name: Intalling Packages VIM and SUDO
+  shell: sudo yum install vim sudo
+
+# Configuracao de timezon
+- name: Timezon Configuration
+  file: src=/usr/share/zoneinfo/Africa/Angola dest=/etc/localtime state=link force=yes
+
+# Copiando Arquivos necess]arios
+- name: Copy File
+  copy: src=file_req_testes.txt dest=/tmp/src=file_req_testes.txt
+
+- name: Create group deploy_admin user for deployment
+  group:
+    name: deploy_admin
+    gid: 2010
+    state: present
+
+- name: Add user "dep" and attach to group "deploy_admin"
+  user:
+    name: dep
+    comment: "Privileded User"
+    uid: 2001
+    group: deploy_admin
+    groups: deploy_admin
+    append: yes
+    shell: /bin/bash
+    generate_ssh_key: yes
+    ssh_key_bits: 2048
+    ssh_key_file: .ssh/id_rsa
+
+- name: Touch a file, using symbolic modes to set the permissions (equivalent to 0644)
+  ansible.builtin.file:
+    path: /tmp/teste.txt
+    state: touch
+    mode: u=rw,g=r,o=r
+
+- name: Update teste.txt owner and group mode and permissions
+  file:
+    path: /tmp/teste.txt
+    owner: jsebastiao
+    group: deploy_admin
+    mode: "0770"
+
+- name: Printing a log (NetworkManager_logs_today.txt) about NetworkManager.service for today to analysis / into dir /tmp/eventos.log
+  shell: |
+         sudo mkdir /tmp/eventos.log
+         sudo journalctl -u NetworkManager -S today > /tmp/eventos.log/NetworkManager_logs_today.txt
+         #sudo journalctl -u NetworkManager --since "2022-09-12" --until "2022-09-12" > /tmp/eventos.log/NetworkManager_logs_today.txt
+
+...
+

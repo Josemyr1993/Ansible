@@ -1,0 +1,6 @@
+---
+- name: Pre-Configuration end-points (Installing Packages and Settings)
+  hosts: servidores_cos
+  roles:
+    - Linux
+...

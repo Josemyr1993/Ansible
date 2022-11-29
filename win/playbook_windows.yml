@@ -1,0 +1,8 @@
+---
+- name: Instalacao de pacote
+  hosts: win
+  become: false
+  gather_facts: false
+  roles:
+    - common
+...

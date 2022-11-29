@@ -1,0 +1,11 @@
+[servidores_rh]
+192.168.40.161
+
+[servidores_cos]
+192.168.32.100
+
+[servidores:children]
+servidores_rh
+servidores_cos
+
+

@@ -1,0 +1,61 @@
+---
+# tasks file for k8s-master
+
+- name: "Changing driver in docker"
+  copy:
+    content: |
+            {
+               "exec-opts": ["native.cgroupdriver=systemd"]
+            }
+    dest: /etc/docker/daemon.json
+  register: x
+
+- name: "Restarting docker"
+  service:
+    name: docker
+    state: restarted 
+  when: x.changed == true
+
+- name: "Updating config file"
+  copy: 
+    dest: /etc/sysctl.d/k8s.conf
+    content: |
+            net.bridge.bridge-nf-call-ip6tables = 1
+            net.bridge.bridge-nf-call-iptables = 1
+- name: "Initializing master"
+  shell: "kubeadm init --pod-network-cidr={{ cidr }} --ignore-preflight-errors=NumCPU --ignore-preflight-errors=Mem --ignore-preflight-errors=FileContent--proc-sys-net-bridge-bridge-nf-call-iptables"
+  ignore_errors: yes
+
+- name: "Creating .kube directory"
+  file:
+    path: $HOME/.kube 
+    state: directory
+
+- name: "copy admin file"
+  copy:
+    remote_src: yes
+    src: /etc/kubernetes/admin.conf
+    dest: $HOME/.kube/config
+
+- name: "Change owner of .kube/config"
+  shell: "sudo chown $(id -u):$(id -g) $HOME/.kube/config" 
+
+- name: "flannel install"
+  command: kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+  changed_when: false
+
+- name: "Getting Token"
+  shell: "kubeadm token create --print-join-command"
+  register: token
+  ignore_errors: yes
+
+- name: "Storing Token"
+  blockinfile:
+    path: /root/joink8scluster.yml
+    create: yes
+    block: |
+            {{ token.stdout }}
+- fetch:
+    src: /root/joink8scluster.yml
+    dest: /tmp/token
+    flat: yes

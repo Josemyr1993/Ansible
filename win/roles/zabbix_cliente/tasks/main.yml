@@ -1,0 +1,32 @@
+---
+- name: Add epel-release repo
+  yum:
+    name: epel-release
+    state: present
+
+- name: Install zabbix-agent
+  yum:
+    name: zabbix-agent
+    state: latest
+
+- name: copy zabbix.conf
+  copy:
+     src: zabbix_agentd.conf
+     dest: /etc/zabbix_agentd.conf
+
+- name: Restart Zabbix service
+  service:
+    name: zabbix-agent
+    state: restarted
+    enabled: true
+
+- name: firewall module
+  ansible.posix.firewalld:
+    zone: pubilc
+    service: zabbix-agent
+    permanent: yes
+    state: enabled
+    #port: 10050/tcp
+
+- name: Reload firewall
+  shell: firewall-cmd --reload

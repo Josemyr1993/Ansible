@@ -1,0 +1,20 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "pgsql01",
+            "Group": "US-EAST-1",
+            "Host": "10.0.0.12",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "pgadmin",
+            "SSLMode": "prefer",
+            "SSLCert": "<STORAGE_DIR>/.postgresql/postgresql.crt",
+            "SSLKey": "<STORAGE_DIR>/.postgresql/postgresql.key",
+            "SSLCompression": 0,
+            "Timeout": 0,
+            "UseSSHTunnel": 0,
+            "TunnelPort": "22",
+            "TunnelAuthentication": 0
+        }
+    }
+}

@@ -1,0 +1,6 @@
+---
+- hosts: node
+  gather_facts: yes
+  roles:
+    - k8_node
+

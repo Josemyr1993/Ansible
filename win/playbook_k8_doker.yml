@@ -1,0 +1,7 @@
+---
+- name: Complete Cluster Setup
+  hosts: node
+  roles:
+    - openshift   
+...
+

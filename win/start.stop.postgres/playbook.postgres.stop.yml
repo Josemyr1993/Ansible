@@ -1,0 +1,27 @@
+---
+- name: Stop postgres Service
+  hosts: node
+
+  tasks:
+
+    - name: 
+      shell: sudo docker stop test-postgres
+    
+# Ver Status do container test-postgres
+
+    - name: Get inf on container test-postgres
+      docker_container_info:
+        name: test-postgres
+      register: result
+
+    - name: Does container exist?
+      debug:
+        msg: "The container {{ 'exists' if result.exists else 'does not exist' }}"
+
+    - name: Print the status of the container
+      debug:
+        msg: "The container status is {{ result.container['State']['Status'] }}"
+      when: result.exists
+
+
+    

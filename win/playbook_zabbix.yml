@@ -1,0 +1,7 @@
+---
+- name: Complete Zabbix installation Linux
+  hosts: cliente
+  roles:
+    - zabbix_cliente
+...
+

@@ -1,0 +1,30 @@
+---
+# tasks file for k8s-slave
+
+- name: "Installing docker"
+  package:
+    name: docker
+    state: present
+
+- name: "Starting docker services"
+  service:
+    name: docker
+    state: started
+    enabled: yes
+
+- name: "Configuring yum repository"
+  yum_repository:
+    name: kubernetes
+    description: kubernetes
+    baseurl: https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
+    enabled: no
+    gpgcheck: no
+    repo_gpgcheck: no
+    gpgkey: >-
+            https://packages.cloud.google.com/yum/doc/yum-key.gpg
+            https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
+    exclude: kubelet kubeadm kubectl
+
+- name: "Installing Softwares"
+  shell: yum install -y kubelet kubeadm kubectl --disableexcludes=kubernetes
+  

@@ -1,0 +1,39 @@
+---
+- name: Status postgres and pgadmin service
+  hosts: node
+
+  tasks:
+    
+# Ver Status do container test-postgres
+
+    - name: Get inf. on container test-postgres
+      docker_container_info:
+        name: test-postgres
+      register: result
+
+    - name: Does test-postgres container exist?
+      debug:
+        msg: "The container {{ 'exists' if result.exists else 'does not exist' }}"
+
+    - name: Print the status of the test-postgres container
+      debug:
+        msg: "The container status is {{ result.container['State']['Status'] }}"
+      when: result.exists
+
+# Ver Status do container pgadmin
+    - name: Get inf. on container pgadmin
+      docker_container_info:
+        name: pgadmin
+      register: result
+
+    - name: Does pgadmin container exist?
+      debug:
+        msg: "The container {{ 'exists' if result.exists else 'does not exist' }}"
+
+    - name: Print the status of the pgadmin container
+      debug:
+        msg: "The container status is {{ result.container['State']['Status'] }}"
+      when: result.exists
+
+
+    

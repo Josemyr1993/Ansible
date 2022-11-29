@@ -1,0 +1,9 @@
+---
+# Task file for Zabbix-agent
+- name: Install ZAbbix Exe
+  win_shell: msiexec /i "C:\ansible_example\zabbix_agent.msi" /qn SERVER=192.168.40.100
+
+- name: Restart a service
+  win_service:
+    name: Zabbix Agent
+    state: restarted

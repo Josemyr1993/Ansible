@@ -1,0 +1,6 @@
+---
+default_container_image: ubuntu
+docker_postgres__name: test-postgres
+docker_postgres__port: 5678
+docker_postgres__superuser_name: test_user
+docker_postgres__superuser_password: test_password
