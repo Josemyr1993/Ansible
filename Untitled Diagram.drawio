@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T12:45:46.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="yYk8Dq4hYXh1N6xmeAKK" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T12:46:31.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="pc_JTJxsZx1J0oaSiWCw" version="22.0.4" type="github">
   <diagram name="Page-1" id="ROK-oVCJLwaA5oLjkDMq">
     <mxGraphModel dx="3943" dy="2187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
       <root>
@@ -116,13 +116,13 @@
           <mxGeometry x="-35" y="-10" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-68" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#0D0D0D;rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="1071.5" width="800" height="256" as="geometry" />
+          <mxGeometry x="-1111" y="1071.5" width="551" height="256" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-58" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;SAS Web Products&lt;/span&gt;&lt;/div&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#0055AB;rounded=1;whiteSpace=wrap;html=1;strokeColor=#004182;strokeWidth=2;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="U_tKYPJx8d0HjHbEi9P4-68">
-          <mxGeometry x="301" y="50.5" width="191" height="165" as="geometry" />
+          <mxGeometry x="63" y="54" width="191" height="165" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-86" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;SAS Roles&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Studio&lt;/span&gt;&lt;/div&gt;" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#0055AB;rounded=1;whiteSpace=wrap;html=1;strokeColor=#004182;strokeWidth=2;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="U_tKYPJx8d0HjHbEi9P4-68">
-          <mxGeometry x="545" y="53.5" width="192" height="159" as="geometry" />
+          <mxGeometry x="307" y="57" width="192" height="159" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-76" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: rgb(0, 46, 23);&quot;&gt;&lt;b style=&quot;&quot;&gt;SAS Web Application Server (Web)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#002E17;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="U_tKYPJx8d0HjHbEi9P4-68">
           <mxGeometry x="118" y="-23" width="337" height="49" as="geometry" />
