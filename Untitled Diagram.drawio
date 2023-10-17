@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T16:09:00.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="tzyWRamUptfj30zA_AtP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:49:55.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="tJRJoYWaIoRPkb2h08NB" version="22.0.4" type="github">
   <diagram name="Page-1" id="ROK-oVCJLwaA5oLjkDMq">
     <mxGraphModel dx="6176" dy="2544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="683" y="1325" width="79" height="116" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-201" value="Resource Group" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#000E1C;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1281" y="2014" width="1270" height="596" as="geometry" />
+          <mxGeometry x="-1281" y="2014" width="2206" height="596" as="geometry" />
         </mxCell>
         <mxCell id="U_tKYPJx8d0HjHbEi9P4-39" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=#0D0D0D;rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="-1123" y="1469" width="264" height="670" as="geometry" />
