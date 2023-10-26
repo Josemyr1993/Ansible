@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T18:53:44.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="EX6yZlPbSrvRWqdk5MnM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T18:54:38.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="ATP1MPb1Olq29G37PckA" version="22.0.8" type="github">
   <diagram name="Page-1" id="FKVJIve1dq6x4q8cKOAV">
     <mxGraphModel dx="5290" dy="987" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry x="750" y="490" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2W0P2tbmb7b-uGIX8cg8-137" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 23px; background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;aml.app.bancobai.ao&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;container=0;" vertex="1" parent="2W0P2tbmb7b-uGIX8cg8-34">
-          <mxGeometry x="742" y="631" width="139" height="30" as="geometry" />
+          <mxGeometry x="718" y="615" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2W0P2tbmb7b-uGIX8cg8-138" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.367;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2W0P2tbmb7b-uGIX8cg8-34" source="2W0P2tbmb7b-uGIX8cg8-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -186,8 +186,8 @@
             <mxPoint x="-2175" y="2193.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2W0P2tbmb7b-uGIX8cg8-116" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 23px; background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;VI and VA - Viya Components&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-1494" y="2488" width="341" height="30" as="geometry" />
+        <mxCell id="2W0P2tbmb7b-uGIX8cg8-116" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 23px; background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Viya Components&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-1477" y="2671" width="341" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2W0P2tbmb7b-uGIX8cg8-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;background-color: rgb(20, 20, 20); font-size: 18px;&quot;&gt;SVBESNAMLP04&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1080.95" y="2243" width="144" height="30" as="geometry" />
