@@ -366,6 +366,15 @@
         <mxCell id="k1M3pPfzkcMNyZ2pt31w-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;NFS On CAS Server&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-205.9999999999999" y="4035.5" width="222.75" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="k1M3pPfzkcMNyZ2pt31w-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-230.5" y="3705.38" width="288.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="k1M3pPfzkcMNyZ2pt31w-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-231.13" y="3804" width="288.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="k1M3pPfzkcMNyZ2pt31w-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-231.13" y="3909.75" width="288.75" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
