@@ -417,8 +417,11 @@
         <mxCell id="JzT0_zODjZNWcbE2YsrQ-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;WEB SERVER&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2161" y="5279" width="236.13" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="JzT0_zODjZNWcbE2YsrQ-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Tenant 01 - portal&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="4591" width="464" height="115" as="geometry" />
+        <mxCell id="JzT0_zODjZNWcbE2YsrQ-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Tenant 02 - portal.aml.app.bancobai.ao&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="-1535" y="4752" width="489" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JzT0_zODjZNWcbE2YsrQ-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Tenant 01 - aml.app.bancobai.ao&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="-1535" y="4621" width="464" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
