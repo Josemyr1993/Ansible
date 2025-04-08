@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="26.2.9">
   <diagram name="Page-1" id="FKVJIve1dq6x4q8cKOAV">
-    <mxGraphModel dx="8360" dy="1550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9312" dy="2100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
         <mxCell id="JzT0_zODjZNWcbE2YsrQ-1" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=1;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="-3222" y="4500" width="4360" height="2598" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-84" value="" style="line;strokeWidth=8;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-84" value="" style="line;strokeWidth=6;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-1159" y="5668.5" width="10" height="944" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-82" value="" style="line;strokeWidth=8;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-82" value="" style="line;strokeWidth=6;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-1637" y="5652" width="10" height="944" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-81" value="" style="line;strokeWidth=8;direction=south;html=1;strokeColor=#0066CC;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-81" value="" style="line;strokeWidth=6;direction=south;html=1;strokeColor=#0066CC;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="-1854.38" y="5510" width="10" height="657" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=1;arcSize=10;fontColor=#333333;" vertex="1" parent="1">
@@ -424,7 +424,7 @@
           <mxGeometry x="-1263" y="5417.5" width="170.4" height="216" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Studio&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Analytics&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Investigator&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="421" y="6636" width="403" height="197" as="geometry" />
+          <mxGeometry x="841" y="7176" width="403" height="197" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-2495" y="4734" width="399" height="1116" as="geometry" />
