@@ -415,7 +415,7 @@
           <mxGeometry x="-1831.77" y="5025.13" width="179.65" height="227.73" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="151" y="5030" width="171.98" height="218" as="geometry" />
+          <mxGeometry x="167" y="5110" width="171.98" height="218" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="-1258" y="4832.5" width="168.04" height="213" as="geometry" />
@@ -490,7 +490,7 @@
           <mxGeometry x="-2482" y="6419" width="802" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;SVBESNAMLP01&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Controller Server&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;and CAS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="34" y="5261" width="423" height="140" as="geometry" />
+          <mxGeometry x="50" y="5341" width="423" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-47" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Server Tier&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="6" y="4638" width="451" height="104" as="geometry" />
