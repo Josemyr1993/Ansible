@@ -511,7 +511,7 @@
           <mxGeometry x="-2451" y="5980" width="976" height="121" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-56" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#8B8B8B;strokeColor=#666666;gradientColor=#939393;" vertex="1" parent="1">
-          <mxGeometry x="-2400" y="6090" width="293" height="163" as="geometry" />
+          <mxGeometry x="-2401" y="6093" width="293" height="163" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-61" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-2758" y="4747" width="10" height="1097" as="geometry" />
