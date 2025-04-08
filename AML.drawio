@@ -489,8 +489,8 @@
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-39" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;SVBESNAMLP05&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Apache HTTP Server&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="-1948" y="5277" width="423" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-43" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;color: rgb(153, 153, 153);&quot;&gt;&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Integrations and External Conections&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2482" y="6419" width="802" height="104" as="geometry" />
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-43" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 40px; color: rgb(153, 153, 153);&quot;&gt;Integrations and External Conections&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="6419" width="802" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;SVBESNAMLP01&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;Controller Server&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;and CAS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="50" y="5341" width="423" height="140" as="geometry" />
@@ -507,7 +507,7 @@
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=1;arcSize=10;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-2487" y="5980" width="2969" height="317" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-52" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;RDBMS and Datamart&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-52" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;span&gt;&lt;font style=&quot;&quot;&gt;RDBMS and Datamart&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-2421" y="5980" width="976" height="121" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-56" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#8B8B8B;strokeColor=#666666;gradientColor=#939393;" vertex="1" parent="1">
