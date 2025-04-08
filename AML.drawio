@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JzT0_zODjZNWcbE2YsrQ-1" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=1;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="-2810" y="4440" width="3977" height="2167" as="geometry" />
+          <mxGeometry x="-2810" y="4440" width="3977" height="2495" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-992" y="4832" width="607" height="1136" as="geometry" />
+          <mxGeometry x="-1389" y="4734" width="431" height="1132" as="geometry" />
         </mxCell>
         <mxCell id="k1M3pPfzkcMNyZ2pt31w-55" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=1;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=0;collapsible=0;expand=0;recursiveResize=0;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="-2133" y="3233" width="2109" height="1049" as="geometry" />
@@ -393,53 +393,74 @@
         <mxCell id="k1M3pPfzkcMNyZ2pt31w-54" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Web Services&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="-496.9999999999999" y="3728.25" width="222.75" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-3" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;SVBESNAMLP05&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Web Tier&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1575" y="5225.55" width="236.23" height="299.45" as="geometry" />
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-3" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;SVBESNAMLP05&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Web Tier&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1827.05" y="5122.77" width="192.05" height="243.45" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-4" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;SVBESNAMLP01&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="-101" y="5241.02" width="254" height="321.97" as="geometry" />
+          <mxGeometry x="155" y="5117.51" width="200.36" height="253.98" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="-806.23" y="4913" width="215.73" height="273.46" as="geometry" />
+          <mxGeometry x="-1258" y="4832.5" width="168.04" height="213" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="-811" y="5472" width="220.5" height="279.51" as="geometry" />
+          <mxGeometry x="-1263" y="5417.5" width="170.4" height="216" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Studio&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Analytics&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Investigator&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2431" y="6024" width="451" height="197" as="geometry" />
+          <mxGeometry x="697" y="6220" width="451" height="197" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-2495" y="4834" width="543" height="1136" as="geometry" />
+          <mxGeometry x="-2495" y="4734" width="379" height="1116" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-9" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Metadata Tier&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-913" y="4716" width="451" height="104" as="geometry" />
+          <mxGeometry x="-1393.75" y="4628" width="451" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-11" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2301" y="4947" width="147" height="147" as="geometry" />
+          <mxGeometry x="-2376" y="4827" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;SAS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&amp;nbsp;Visual Analytics&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2398" y="5110" width="342" height="104" as="geometry" />
+          <mxGeometry x="-2473" y="4990" width="342" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-15" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2309.5" y="5281" width="147" height="147" as="geometry" />
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-15" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-2369.5" y="5177" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;SAS&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Visual Investigator&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2458" y="5432" width="451" height="104" as="geometry" />
+          <mxGeometry x="-2533" y="5312" width="451" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-19" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2307" y="5609" width="147" height="147" as="geometry" />
+          <mxGeometry x="-2382" y="5489" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-20" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; SAS Studio&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2364.75" y="5747" width="267.75" height="104" as="geometry" />
+          <mxGeometry x="-2439.75" y="5627" width="267.75" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-22" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Client Tier&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-2422" y="4727" width="451" height="104" as="geometry" />
+          <mxGeometry x="-2531" y="4623" width="451" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;SVBESNAMLP04&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;&lt;font&gt;SPRE&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-916" y="5213" width="451" height="104" as="geometry" />
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;SVBESNAMLP04&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;&lt;font&gt;SPRE&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-1395" y="5087.5" width="451" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-25" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;SVBESNAMLP03&lt;br&gt;&lt;br&gt;Elastic Search&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-916" y="5777" width="451" height="104" as="geometry" />
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-25" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;SVBESNAMLP03&lt;br&gt;Elastic Search&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-1395" y="5663.5" width="451" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=1;arcSize=10;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="4732" width="735" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-29" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;SAS STUDIO 3.5&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-654" y="4811" width="328.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-30" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Embedded Web Application&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-656" y="4771" width="340" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-31" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-812" y="4912" width="665" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-32" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;SAS STUDIO 3.5&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-792.5" y="4958" width="328.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-33" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;SAS STUDIO 3.5&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-440.5" y="4955" width="264.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vkzWM7XqFEuQoIU3QbNU-35" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;SAS STUDIO 3.5&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-789" y="5097" width="328.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
