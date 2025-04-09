@@ -523,7 +523,7 @@
           <mxGeometry x="26" y="5995" width="976" height="121" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-56" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#8B8B8B;strokeColor=#666666;gradientColor=#939393;" vertex="1" parent="1">
-          <mxGeometry x="-1560.0000000000002" y="6052" width="293" height="163" as="geometry" />
+          <mxGeometry x="-1623" y="6052" width="323" height="163" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-61" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#999999;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-2758" y="4747" width="10" height="1097" as="geometry" />
@@ -592,10 +592,10 @@
           <mxGeometry x="329.99" y="5220" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-113" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-1312" y="6121" width="87" height="120" as="geometry" />
+          <mxGeometry x="-1345" y="6131" width="70" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-114" value="&lt;div align=&quot;left&quot;&gt;database: portal&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-1199.75" y="6138" width="182" height="104" as="geometry" />
+          <mxGeometry x="-1260.5" y="6131" width="182" height="104" as="geometry" />
         </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-115" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;SQL External Instance&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;SVBDCOSQLP01\EDWENGP01&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;arcSize=10;dashed=1;dashPattern=8 8;fontColor=#999999;opacity=40;fillColor=default;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="-2423.4" y="6045" width="608.57" height="191" as="geometry" />
