@@ -444,9 +444,6 @@
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="-1263" y="5417.5" width="170.4" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="vkzWM7XqFEuQoIU3QbNU-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Studio&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Analytics&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;SAS Visual Investigator&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="1178" y="6788.5" width="403" height="197" as="geometry" />
-        </mxCell>
         <mxCell id="vkzWM7XqFEuQoIU3QbNU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-2495" y="4734" width="399" height="1116" as="geometry" />
         </mxCell>
